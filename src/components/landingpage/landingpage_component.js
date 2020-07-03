@@ -32,7 +32,7 @@ export default class Landingpage extends Component {
                                     <i class="fas fa-chevron-right"></i><span>CLASS ROOM TRAINING</span><br /><br />
                                 </div>
                                 <div className='chevronRight'>
-                                    <i class="fas fa-chevron-right"></i><span>E-LEARNING<img style={{ height: "11px", paddingLeft: "10px", paddingTop: "" }} src="live.jpg" /></span><br /><br />
+                                    <i class="fas fa-chevron-right"></i><span>E-LEARNING<img style={{ height: "11px", paddingLeft: "10px", paddingTop: "" }} src="live.jpg" alt="nict" /></span><br /><br />
                                 </div>
                             </div>
                         </div>
@@ -40,7 +40,7 @@ export default class Landingpage extends Component {
                     <div className="brightStudent">
                     <h4 className="brightContainer">We help you choose the right talent</h4>
 
-                        <img style={{ height: "350px",marginTop:"40px",marginLeft:"auto",marginRight:"auto",display:"block"}} src={Groupsmob} rel='nict' />
+                        <img style={{ height: "350px",marginTop:"40px",marginLeft:"auto",marginRight:"auto",display:"block"}} src={Groupsmob} alt='nict' />
                     
                     </div>
                 </div>
