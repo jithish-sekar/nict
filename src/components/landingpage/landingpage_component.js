@@ -12,7 +12,7 @@ export default class Landingpage extends Component {
                 <div style={{display:"flex"}} >
                     <div className="containerObjective">
                         <h3>OBJECTIVE</h3>
-                        <p>With Solo Aim of Capacity Building.Skill Development in the areas of NICT academic education and professionals for successfull acheivement.</p>
+                        <p>With Solo Aim of Capacity Building Skill Development in the areas of NICT academic education and professionals for successfull acheivement.</p>
                         <div className="courseTypes">
                             <img style={{ height: "100px", paddingLeft: "20px", paddingTop: "20px" }} src="nicthome.png" alt="nict" />
                             <div className='chevronRight'>
