@@ -1,0 +1,92 @@
+.landingContainer{
+    // background-color: #d4e9e2;
+    // background-color: #5c7686;
+    background-color: #15294b;
+
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    margin-top: .5px;
+
+img{
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+     padding-top: 20px;
+    }
+}
+.containerObjective{
+    // background-color: #d4e9e2;
+    // background-color: #45687e;
+    background-color: #15294b;
+    margin-top: 25px;
+    width: 47.5%;
+    margin-left: 2.5%;
+    height: 540px;
+    
+ h3{
+    // color:#1e3932;
+    // color: #fff;
+    // text-align: center;
+    // padding-top: 20px;
+    // font-family: 'Raleway', sans-serif;   
+    // font-weight: 700;
+    // font-size:40px;
+    // letter-spacing: 1px;    
+    // font-size: 22px;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 2.4em;
+    text-align: center;
+    letter-spacing: -2.3px;
+    margin: 0;
+    font-family:' Raleway',sans-serif;
+   }
+   p{
+       color: #dee6ec;
+       text-align: center;
+       padding-left: 30px;
+       padding-right: 30px;
+       letter-spacing: 1px;
+   }
+   .courseTypes{
+       display: flex;
+       align-items: center;
+    }
+    i{
+        margin-right: 15px;
+    }
+    .chevronRight{
+        color: #fff;
+        padding-left: 40px;
+        padding-top: 20px;
+    }
+    
+}
+.brightStudent{
+    background-color: #15294b;
+    width: 47.5%;
+    // margin-left: 2.5%;
+    margin-top: 25px;
+    height: 540px;
+
+ .brightContainer{
+    // font-family: 'Exo 2', sans-serif;
+    margin: 0;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 2.4em;
+    text-align: center;
+    letter-spacing: -2.3px;
+    font-family:' Raleway',sans-serif;
+}
+
+}
